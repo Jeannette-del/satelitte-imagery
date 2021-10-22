@@ -5,3 +5,6 @@
      Measure the area
 
      Yield estimation
+# How to run code
+    1. Download data 
+        python download_data.py
