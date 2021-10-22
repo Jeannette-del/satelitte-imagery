@@ -6,5 +6,5 @@
 
      Yield estimation
 # How to run code
-    1. Download data 
+    1. Download data by reading the instruction in data.txt
         python download_data.py
