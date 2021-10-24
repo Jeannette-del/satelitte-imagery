@@ -1,6 +1,6 @@
 import glob
 import numpy as np
-from osgeo import gdal # If GDAL doesn't recognize jp2 format, check version</pre>
+#from osgeo import gdal # If GDAL doesn't recognize jp2 format, check version</pre>
 from glob import glob
 import earthpy as et
 import earthpy.spatial as es
