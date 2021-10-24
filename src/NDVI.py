@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 
 np.seterr(divide='ignore', invalid='ignore')
 # Set input directory
-input_dir = input('Enter path')
+input_dir = input('Enter path+/*B?*.jp2')
 S_sentinel_bands = glob(input_dir)
 
 S_sentinel_bands.sort()
